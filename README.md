@@ -19,3 +19,12 @@
 - Aprendemos sobre State;
 - Vimos o conceito de Prop-drilling;
 - No final, criamos o banner utilizando Styled Components e passando Props por ele.
+
+## AULA 03: IMPLEMENTANDO DARK MODE COM CONTEXTAPI
+
+- Começamos olhando o Design Systems;
+- Falamos sobre a importância de ter contratos de cores e valores de Design;
+- Criamos o componente Dark Mode Switch;
+- Criamos um state local no nosso componente de Dark Mode Switch;
+- Começamos a trabalhar esse state para não fazer Prop Drilling e sim ter um contexto que nos permite acessar os dados de forma "global";
+- E por fim, um Provider que configura quais dados vão estar disponíveis no contexto.
